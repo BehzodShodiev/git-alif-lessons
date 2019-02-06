@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello my dear fans
 
 It's my world
@@ -8,3 +9,5 @@ Something************
 
 for deleting
 df
+=======
+>>>>>>> parent of fa595fb... Starting of my essay
